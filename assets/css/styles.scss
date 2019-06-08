@@ -1,0 +1,10 @@
+$rock-color: #63424B;
+$paper-color: #36504B;
+$scissors-color: #535353;
+
+
+:export {
+  rockColor: $rock-color;
+  paperColor: $paper-color;
+  scissorsColor: $scissors-color
+}
